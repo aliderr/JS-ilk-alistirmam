@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.red{
+    color: #ff0000;
+}
+
+.content{
+    display:grid;
+    justify-content: center;
+}
